@@ -47,9 +47,9 @@
 
 I’m always open to connecting with fellow developers, mentors, and tech enthusiasts. Feel free to reach out if you’d like to collaborate, share knowledge, or just chat about tech!
 
-- **LinkedIn**: [Sandro Gómez](https://www.linkedin.com/in/sandrogomez)  
-- **GitHub**: [sandrogomezdev](https://github.com/sandrogomezdev)  
-- **Email**: sandro.gomez@example.com  
+- **LinkedIn**: [Sandro Gómez]([https://www.linkedin.com/in/sandrogomez](https://www.linkedin.com/in/sandro-gomez-21355b346/)  
+- **GitHub**: [sandrogomezdev]([https://github.com/sandrogomezdev](https://github.com/sandrodevx)  
+- **Email**: sandrodevx@gmail.com
 
 ---
 
