@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 What Drives Me?
+##  What Drives Me?
 
 - **Curiosity**: I’m always asking questions and seeking to understand how things work.  
 - **Growth Mindset**: I believe in continuous learning and pushing boundaries.  
@@ -25,7 +25,7 @@
 
 ---
 
-## 🌱 Current Focus
+##  Current Focus
 
 - Sharpening my **JavaScript** skills and diving deeper into **frontend frameworks**.  
 - Exploring **backend development** to become a well-rounded developer.  
@@ -34,7 +34,7 @@
 
 ---
 
-## 🔥 Future Goals
+##  Future Goals
 
 - Master **full-stack development**.  
 - Learn **cloud computing** and **DevOps** practices.  
@@ -43,7 +43,7 @@
 
 ---
 
-## 📫 Let’s Connect!
+##  Let’s Connect!
 
 I’m always open to connecting with fellow developers, mentors, and tech enthusiasts. Feel free to reach out if you’d like to collaborate, share knowledge, or just chat about tech!
 
@@ -53,5 +53,5 @@ I’m always open to connecting with fellow developers, mentors, and tech enthus
 
 ---
 
-### 💡 Fun Fact:  
+###  Fun Fact:  
 I believe that every line of code is a step toward solving real-world problems. Let’s build something amazing together! 🚀
