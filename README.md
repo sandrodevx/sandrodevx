@@ -54,4 +54,4 @@ I’m always open to connecting with fellow developers, mentors, and tech enthus
 ---
 
 ###  Fun Fact:  
-I believe that every line of code is a step toward solving real-world problems. Let’s build something amazing together! 🚀
+I believe that every line of code is a step toward solving real-world problems. Let’s build something amazing together! 
