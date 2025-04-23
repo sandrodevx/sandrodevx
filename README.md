@@ -48,8 +48,8 @@
 I’m always open to connecting with fellow developers, mentors, and tech enthusiasts. Feel free to reach out if you’d like to collaborate, share knowledge, or just chat about tech!
 
 - **LinkedIn**: [Sandro Gómez](https://www.linkedin.com/in/sandro-gomez-21355b346)
-- **GitHub**: [sandrogomez](https://github.com/sandrodevx)
-- **Email**: [sandrogomez](sandrodevx@gmail.com)
+- **GitHub**: [Sandro Gómez](https://github.com/sandrodevx)
+- **Email**: [Sandro Gómez](sandrodevx@gmail.com)
 - **YouTube**: [SandroDevX](https://www.youtube.com/@SandroDevX)
 
 ---
