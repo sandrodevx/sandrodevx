@@ -49,7 +49,8 @@ I’m always open to connecting with fellow developers, mentors, and tech enthus
 
 - **LinkedIn**: [Sandro Gómez](https://www.linkedin.com/in/sandro-gomez-21355b346)
 - **GitHub**: [sandrogomez](https://github.com/sandrodevx)
-- **Email**: sandrodevx@gmail.com
+- **Email**: [sandrogomez](sandrodevx@gmail.com)
+- **YouTube**: [SandroDevX](https://www.youtube.com/@SandroDevX)
 
 ---
 
